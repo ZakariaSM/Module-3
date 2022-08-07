@@ -1,0 +1,64 @@
+* {
+    font-family: Cursive;
+    box-sizing: border-box;
+    font-weight: bold;
+}
+.navbar1 {
+    background: #bfbfbf;
+    font-size: 180%;
+    border: 2px solid black;
+}
+.navtext1 {
+    color: black;
+    padding: 7px 35px 7px ;
+}
+.menu1 {
+    text-align: center;
+    font-size: 170%;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.text-center {
+    font-size: 130%;
+}
+.food1 {
+    background-color: #bfbfbf;
+    float: left;
+    margin-top: 10x;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border: 2px solid black;
+}
+.food2 {
+    background-color: #bfbfbf;
+    float: left;
+    margin-top: 10x;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border: 2px solid black;
+}
+.food3 {
+    background-color: #bfbfbf;
+    float: left;
+    margin-top: 10x;
+    margin-bottom: 10px;
+    overflow: hidden;
+    border: 2px solid black;
+}
+.dummy {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.container-fluid {
+    width: 100%;
+    border-right: 10px;
+    border-left: 10px;
+}
+@media (min-width:992px) {
+    .vis {
+        visibility: hidden;
+    }
+}
+.brand-name {
+    margin-left: 20px;
+}
